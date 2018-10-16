@@ -9,7 +9,7 @@ public class GoogleHomePage {
 
     private WebDriver driver;
     private WebDriverWait wait;
-    private By searchField = By.name("e");
+    private By searchField = By.name("q");
 
 
     public GoogleHomePage(WebDriver driver) {
