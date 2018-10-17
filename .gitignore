@@ -40,3 +40,4 @@ Thumbs.db
 #####################
 .idea/
 src/test/resources
+target/
